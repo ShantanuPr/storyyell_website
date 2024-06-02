@@ -1,0 +1,2 @@
+Certificate is saved at: /etc/letsencrypt/live/server2dns.yourdisha.in/fullchain.pem
+Key is saved at:         /etc/letsencrypt/live/server2dns.yourdisha.in/privkey.pem
